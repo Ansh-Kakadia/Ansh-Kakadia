@@ -1,13 +1,13 @@
 ### Ansh's Read Me
 
-1. **Previous Coding Experience**
-   - Did the Intro to Programming and Advanced Topics in Programming from the University of Helsinki
+1. **Coding Experience**
+   - I have taken courses online
 2. **Reason to take this class**
-   - Wanted to take this class to become familiar with different software like GitHub
-3. **Interests**
-   - I do track and am interested in physics
-4. **Goals for the class**
-   - I don't have any specific goals and I have an open mind about what we will do
+   - I want to get familiar with software like GitHub
+3. **Other interests**
+   - I'm into track and lifting
+4. **Goals for this class**
+   - I want to become better at dealing with code that involves multiple files
 <!--
 **Ansh-Kakadia/Ansh-Kakadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
