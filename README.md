@@ -1,7 +1,7 @@
 ### Ansh's Read Me
 
 1. **Coding Experience**
-   - I have taken courses online
+   - I have taken the [*Intro to Programming* and *Advanced Course in Programming*](https://programming-23.mooc.fi/) courses
 2. **Reason to take this class**
    - I want to get familiar with software like GitHub
 3. **Other interests**
