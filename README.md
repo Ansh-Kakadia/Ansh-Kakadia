@@ -13,7 +13,7 @@
    - I want to become better with keeping my code clean and easy to understand
    - I want to become cognisant of efficiency when coding
 5. **Fun Fact**
-  -I have never been to Sea World 🐬
+   -I have never been to Sea World 🐬
    
 This is my markdown README 🚛
 <!--
