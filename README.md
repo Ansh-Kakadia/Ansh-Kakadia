@@ -12,7 +12,8 @@
    - I want to become better at dealing with code that involves multiple files
    - I want to become better with keeping my code clean and easy to understand
    - I want to become cognisant of efficiency when coding
-  
+5. **Fun Fact**
+  -I have never been to Sea World 🐬
 This is my markdown README 🚛
 <!--
 **Ansh-Kakadia/Ansh-Kakadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
