@@ -27,10 +27,10 @@ These days, I'm focusing on backend engineering and full-stack development. I li
 ## Some Projects I've Built
 
 **Maze-Solver**  
-Built this in Java using Kruskal's Algorithm to generate solvable mazes of any size. Added an interactive GUI where you can watch BFS or DFS solve the maze at whatever speed you want. Wrote 30+ unit tests to make sure everything works correctly.
+Built this in Java using Kruskal's Algorithm to generate solvable mazes of any size. Added an interactive GUI that allows you to watch BFS or DFS solve the maze at your desired speed. Wrote 30+ unit tests to make sure everything works correctly.
 
 **Seam-Carver**  
-This was a fun challenge—implementing content-aware image resizing that removes low-energy pixels while keeping the important parts intact. Used dynamic programming to get O(width × height) time complexity, and optimized the data structure so each pixel knows its neighbors.
+Implemented a content-aware image resizing tool that removes low-energy pixels while keeping the important parts intact. Used dynamic programming to get O(width × height) time complexity, and optimized the data structure so each pixel knows its neighbors.
 
 **TravelNU**  
 Worked with three other developers to build a full-stack app where Northeastern students can share their experiences studying abroad. We implemented search functionality and authentication for university emails. Had to move fast to meet the Oasis Project Series deadline.
@@ -48,8 +48,8 @@ I'm diving deeper into advanced algorithm design and trying to understand how ba
 
 ## Get in Touch
 
-Always happy to chat about potential opportunities or interesting technical problems. Feel free to reach out!
+Happy to chat about potential opportunities or interesting technical problems. Feel free to reach out!
 
 - Email: kakadia.an@northeastern.edu
-- LinkedIn: [linkedin.com/in/anshkakadia](https://linkedin.com/in/anshkakadia)
+- LinkedIn: [linkedin.com/in/anshkakadia](https://linkedin.com/in/ansh-kakadia)
 - Location: Boston, MA
