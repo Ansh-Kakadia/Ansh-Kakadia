@@ -1,70 +1,82 @@
 # Ansh Kakadia
 
-**Email:** kakadia.an@northeastern.edu  
-**Phone:** (215) 833-7067  
-**Location:** Boston, MA  
-**LinkedIn:** [linkedin.com/in/anshkakadia](https://linkedin.com/in/ansh-kakadia)  
-**GitHub:** [github.com/anshkakadia](https://github.com/ansh-kakadia)
+**Email:** kakadia.an@northeastern.edu
+**Phone:** (215) 833-7067
+**Location:** Boston, MA
+**LinkedIn:** [linkedin.com/in/ansh-kakadia](https://linkedin.com/in/ansh-kakadia)
+**GitHub:** [github.com/Ansh-Kakadia](https://github.com/Ansh-Kakadia)
 
 ---
 
 ## Education
 
-**Northeastern University, Khoury College of Computer Science** | Boston, MA  
-*Candidate for BS in Computer Science and Mathematics* | Expected May 2028  
-- **GPA:** 3.96/4.0
+**Northeastern University, Khoury College of Computer Science** | Boston, MA
+*BS in Computer Science and Mathematics* | Expected May 2028
+
+- **GPA:** 3.94/4.0
 - **Awards and Activities:** Dean's List, Oasis Project Series
-- **Relevant Coursework:** Object-Oriented Design, Algorithms and Data, Fundamentals of Computer Science 1 and 2, Logic and Computation, Linear Algebra, Statistics
+- **Relevant Coursework:** Artificial Intelligence, Machine Learning, Algorithms and Data, Object-Oriented Design, Logic and Computation, Linear Algebra, Statistics
 
 ---
 
 ## Technical Skills
 
-**Languages:** Java, Rocq Theorem Prover, OCaml, JavaScript, Dart, HTML/CSS
+**Languages:** Python, Java, SQL, JavaScript, OCaml, Dart
 
-**Frameworks/Libraries:** React, JUnit, Flutter, Python, Node.js, Tailwind CSS, Firebase
+**AI/ML:** Azure AI Foundry, Azure AI Search, LLM APIs (OpenAI, Anthropic), PyTorch, scikit-learn, RAG
 
-**Developer Tools:** Git, WSL (Windows Subsystem for Linux), VSCode, Eclipse, IntelliJ
+**Frameworks/Libraries:** React, Node.js, Flask, Streamlit, Firebase, Tailwind CSS, Flutter, JUnit
 
----
-
-## Project Experience
-
-### Maze-Solver | Boston, MA
-*Java* | April 2025
-- Implemented graph-based maze generation using Kruskal's Algorithm to create mazes guaranteed to be solvable, and scalable to any size
-- Designed an interactive GUI allowing users to generate and solve mazes manually or using BFS/DFS at an adjustable animation speed
-- Includes testing suite utilizing 30+ unit tests, ensuring correctness
-
-### Seam-Carver | Boston, MA
-*Java* | April 2025
-- Developed content-aware image resizing tool using seam carving algorithm to remove low-energy pixels while preserving important features
-- Implemented dynamic programming solution with dual-gradient energy function, achieving O(width × height) time complexity
-- Implemented a web data structure where pixels contain references to neighboring pixels to reduce computations needed to find seams
-
-### TravelNU | Boston, MA
-*JavaScript, React, Tailwind, DaisyUI* | September 2024 - October 2024
-- Developed a full-stack web application to rate and browse overseas experiences through the first-hand experience of other students, featuring authentication services for Northeastern emails
-- Worked in a team of 4 developers to meet project deadline for Oasis Project Series
-- Built search functionality and a display page to better filter global experiences
-
-### Jordan Center Sign-In | Fort Washington, PA
-*JavaScript, React, Supabase* | June 2024 - August 2024
-- Built a full-stack check-in system to be deployed at high school, replacing paper logs with digital tracking using PostgreSQL
-- Designed database schema supporting student self-registration, role-based access control, and automated check-in tracking
-- Provides school admin with concrete usage numbers through Supabase to advertise their facilities
+**Developer Tools:** Git, Docker, Azure Service Bus, MySQL, WSL
 
 ---
 
 ## Professional Experience
 
-### Teaching Assistant | Northeastern University | Boston, MA
-*January 2025 - Present*
-- Assisted professors with the management of Logic & Computation, as well as Calculus 3 for Engineers, including grading of weekly quizzes and periodic exams for 100+ students
-- Collaborated with instructors to decide how to distribute points between problems on assessments to most accurately assess the students' understanding of the course material
-- Communicated core course ideas to students, helping them complete homework and assessments
+### AI Product Development Intern | Synoptek | Boston, MA
+*April 2026 – Present*
 
-### Instructional and Academic Tutor | Kumon Learning Center | Spring House, PA
-*June 2022 - August 2022*
-- Aided 30+ students (K-12) biweekly in completing Math and English coursework, advancing them faster than their school track
-- Created test keys for upper-classmen in advanced high school math courses and utilized a learning management system (LMS)
+- Built Synthia, an AI desktop agent that resolves end-user IT tickets autonomously: plain-language intake, on-device diagnostics and remediation, and full action logging
+- Validated against 70,040 quarterly support tickets: compressed 45–150 minute routine resolutions to under 5 minutes across 42 of the top 50 issue patterns, with 14.7% resolvable end to end autonomously and 33.3% with human-in-the-loop approval
+- Designed the orchestration layer over a five-agent fleet: intent classification, agent sequencing, guardrails, and resolve-vs-escalate decisioning, grounding responses with Azure AI Search retrieval over IT knowledgebases, pairing LLM reasoning with deterministic runbooks
+- Shipped Mission Control, a technician console providing fleet-wide observability over live agent sessions, with in-flight suggestions, course correction, and full session takeover mid-resolution
+- Returning part-time in Fall 2026 to deploy the system to production, hardening orchestration and connectors and adding ServiceNow write with tenant separation
+
+### Teaching Assistant | Northeastern University | Boston, MA
+*January 2025 – December 2025*
+
+- Assisted two courses, Logic & Computation and Calculus 3 for Engineers, grading weekly quizzes and exams for 100+ students
+- Held biweekly office hours, working through problem sets and exam preparation with students
+- Collaborated with instructors on point distribution across assessment problems to more accurately measure student understanding
+
+---
+
+## Project Experience
+
+### [HuskyLeague](https://github.com/Ansh-Kakadia/26S-Project-DataGrippers)
+*Python, Streamlit, Flask, MySQL, Docker, REST API* | March 2026 – April 2026
+
+- Developed a full-stack intramural sports league platform, containerized with Docker Compose, supporting four role-based personas: player, team captain, league admin, and analyst
+- Modeled a 16-table MySQL schema with ENUM-constrained statuses and named foreign-key constraints, computing live game statistics via multi-join SQL with conditional aggregation
+
+### [Fashion Outfit Optimizer](https://github.com/Ansh-Kakadia/CS4100_Final_Project)
+*Python, PyTorch, scikit-learn, Streamlit* | January 2026 – April 2026
+
+- Built a machine-learning outfit optimizer that generates and refines a complete outfit from a single anchor item, encoding a 44K+ item catalog and 1,500 outfit templates as 67-dimensional embeddings over a K=20 cosine-similarity KNN graph
+- Chose simulated annealing over greedy selection to escape local optima in a non-convex outfit space, where swapping any single item degrades the multi-objective score — color harmony, formality coherence, seasonal fit — before improving it
+
+### [Album Cover Poster Creator](https://github.com/Ansh-Kakadia/Album_Poster_Creator)
+*Python, OpenAI API, Spotify API* | February 2026
+
+- Architected an agentic AI system that generates custom album posters from a Spotify link, orchestrating metadata retrieval, image generation, and code compositing through tool calling
+- Separated generation from evaluation rather than asking one model to produce and self-assess in a single pass, adding a distinct vision-model critique that scores each draft on composition and readability
+
+---
+
+## Earlier Projects
+
+- **Sanguine (Queen's Blood)** — *Java* — Playable implementation of a card minigame variant, with rule enforcement and turn resolution
+- **Maze-Solver** — *Java*, April 2025 — Graph-based maze generation via Kruskal's Algorithm, guaranteeing solvability at any size, with an interactive BFS/DFS solver and a 30+ test suite
+- **Seam-Carver** — *Java*, April 2025 — Content-aware image resizing using a dual-gradient energy function and dynamic programming, with a pixel-neighbor graph to avoid recomputing seams
+- **TravelNU** — *JavaScript, React, Tailwind*, Sept–Oct 2024 — Team-of-four platform for browsing and rating study-abroad experiences, with Northeastern email authentication (Oasis Project Series)
+- **Jordan Center Sign-In** — *JavaScript, React, Supabase*, June–Aug 2024 — Check-in system deployed at a high school, replacing paper logs with a PostgreSQL-backed schema supporting self-registration and role-based access
